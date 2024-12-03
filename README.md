@@ -46,13 +46,7 @@ List what is needed to work with this prototype:
 
 ### **Installation**
 
-Steps to set up the prototype:
-
-**Eg: Clone the Repository:**
-
-`git clone [GitHub Repository URL]`  
-
-`cd [repository-folder-name]`  
+Steps to set up the prototype:`  
 
 1. **Install Dependencies:**
 
