@@ -24,6 +24,10 @@ Date of submission: 03-12-2024
 
 ---
 
+
+https://github.com/user-attachments/assets/9ac02727-dbf1-4138-bc49-18e406b9b596
+
+
 ## **Introduction**
 
 This project will incorporate a robotic arm using servo motors that can be controlled using the users's eye movements, as it will be capable of detecting and interpreting the eye movements accordingly. The system will track the user’s gaze, which will be translated into commands for controlling the robots’s movements through a servo motor, which is performed using camera and image processing algorithms. Arduino Uno will process the camera data and direct the servo motors accordingly. The direction and intensity of the eye gaze are used to control the robot’s movements precisely. The suggested system has numerous potential uses, primarily emphasizing assistive technology for people with motor disabilities.
